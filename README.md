@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theharisshah&label=Profile%20views&color=0e75b6&style=flat" alt="theharisshah" /> </p>
 
-- 👨‍💻 All of my projects are available at [obiwan.space](obiwan.space)
+- 👨‍💻 All of my projects are available at [obiwan.space](https://obiwan.space)
 
 - 💬 Ask me about **laravel, php, python, js**
 
