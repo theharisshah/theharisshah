@@ -60,4 +60,4 @@
 
 ## 📈 GitHub Stats
 
-![YOUR GITHUB STATS](https://github-readme-stats.vercel.app/api?username=theharisshah&show_icons=true&theme=radical)
+![YOUR GITHUB STATS](https://github-readme-stats.vercel.app/api?username=theharisshah&show_icons=true&theme=radical&count_private=true)
