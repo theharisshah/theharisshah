@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theharisshah&label=Profile%20views&color=0e75b6&style=flat" alt="theharisshah" /> </p>
 
-- 💬 Ask me about **laravel, php, python, js**
+- 💬 Ask me about **NodeJs, Laravel, Django**
 
 - 📫 How to reach me **shahharis383@gmail.com**
 
@@ -15,16 +15,22 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
+ </a>
 <a href="https://www.php.net" target="_blank"> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
 </a>
 <a href="https://www.python.org" target="_blank">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
+ <a href="https://nodejs.org">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
  </a>
-<a href="https://laravel.com/" target="_blank">
+ <a href="https://expressjs.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+ </a>
+ <a href="https://laravel.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/> 
 </a>
 <a href="https://www.djangoproject.com" target="_blank"> 
